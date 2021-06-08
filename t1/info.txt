@@ -1,0 +1,4 @@
+carpus_3 start - 330
+wrist_2 start - 345
+cubit_5 start - 630
+shoulder_6 start - 210
